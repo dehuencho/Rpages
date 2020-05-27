@@ -1,0 +1,7 @@
+blockquote {
+  font-style: italic
+}
+
+#r-markdown > pre.r {
+  background-color: #ff0039;
+}
