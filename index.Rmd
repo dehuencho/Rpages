@@ -1,20 +1,8 @@
 ---
-title: "Introduction"
-author: "Subgerencia planificación corporativa"
-date: "27-05-2020"
-output: html_document
-
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+title: "index"
 ---
 
 ```{r setup, include=FALSE}
-#git log --oneline
-#git diff --stat --summary master..testing_branch1
-#git push -u origin testing_branch1
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
