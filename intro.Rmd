@@ -10,6 +10,7 @@ title: "Introduction"
 #git checkout master
 #git branch -D testing_branch1
 #git log --oneline --graph --all 
+#ALT+Shift+K
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
