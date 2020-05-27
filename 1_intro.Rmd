@@ -12,6 +12,7 @@ knit: (function(input_file, encoding) {
 ---
 
 ```{r setup, include=FALSE}
+#git log --oneline
 #git diff --stat --summary master..testing_branch1
 #git push -u origin testing_branch1
 knitr::opts_chunk$set(echo = TRUE)
